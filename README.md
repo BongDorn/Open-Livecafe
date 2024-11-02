@@ -74,14 +74,14 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 
-cp .env.example .env  (copy envជា Database).
-3,php artisan key:generate (hide generate password ).
-4,php artisan migrate --seed (add or insert data ដែលមានស្រាប់).
-5,php artisan serv (Run).
-- [Simple, fast routing engine](+របៀប Update Project laravel clone,).
-- [Powerful dependency injection container](1, composer update (update).
-- Multiple back-ends for [session](2,copy .env.example .env.) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+
+
+- [+របៀប Update Project laravel clone]().
+- [composer update (update)].
+
+- copy .env.example .env 
+- [cp .env.example .env  (copy envជា Database)].
+- [php artisan key:generate (hide generate password )].
+- 
+- [php artisan migrate --seed (add or insert data ដែលមានស្រាប់)]
+- [php artisan serv (Run)].
