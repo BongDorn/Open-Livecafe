@@ -72,7 +72,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Clone Project
 +របៀប Update Project laravel clone,
-1, composer update (update),
+<a >1, composer update (update),</a>
 2,copy .env.example .env.
 cp .env.example .env  (copy envជា Database).
 3,php artisan key:generate (hide generate password ).
