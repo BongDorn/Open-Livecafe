@@ -65,14 +65,14 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-![image]
+[image]
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/5e97af34-9aec-4c97-90bd-43fa4aebf828" width="400" alt="Laravel Logo"></p>
+    <img src="https://github.com/user-attachments/assets/5e97af34-9aec-4c97-90bd-43fa4aebf828"  alt="Laravel Logo"></p>
 
 ## Clone Project
-+របៀប Update Project laravel clone .
-1, composer update (update).
++របៀប Update Project laravel clone,
+1, composer update (update),
 2,copy .env.example .env.
 cp .env.example .env  (copy envជា Database).
 3,php artisan key:generate (hide generate password ).
